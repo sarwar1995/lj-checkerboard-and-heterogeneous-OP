@@ -1,0 +1,2 @@
+# lj-checkerboard-and-heterogeneous-OP
+These codes are used for performing analysis tasks such as calculating density profile, RDF, orientation maps, and other per layer statistics like number of solid like clusters, their sizes and minimum distances between them. Primarily these codes are used in the LJ nano patterned surfaces and LJ heterogeneous Order Parameter projects of the Yale Computational Soft Matter Lab in ChemE department.
